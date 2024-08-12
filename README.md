@@ -5,3 +5,4 @@ First, install the termux:api app. Then, type install and install the api. Then,
 # How to run
 Install the app and package above (skip if you have already installed it)
 First, type [cd /sdcard/Download/call] (may vary depending on device) and then type [bash main.sh] and you're done. 
+<a href="https://github.com/XMAXCMCIS/tercall-termux/tags">here install</a>
